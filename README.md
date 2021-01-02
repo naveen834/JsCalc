@@ -1,1 +1,2 @@
 # JsCalc
+Basic Calculator
